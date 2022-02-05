@@ -1,0 +1,161 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-size: 1.3em;
+    font-family: 'Merriweather', serif;
+}
+
+/* hr{
+    width: 10%;
+    border-radius: 30px;
+    
+} */
+
+h1{
+    margin: 50px auto 0;
+    font-size:  90px;;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    
+    font-family: 'Montserrat', sans-serif;
+    color: #9B0000;
+    font-size: 40px;
+    font-weight: normal;
+    /* color: #9C0F48; */
+}
+
+h3{
+    
+    font-family: 'Montserrat', sans-serif;
+    color: #1A374D;    
+}
+
+hr{
+    border: dotted #74635b 10px;
+    border-bottom: none;
+    width: 5%;
+    margin: 50px auto;
+}
+
+p{
+    line-height: 2;
+    padding:10px 0 10px;
+}
+
+.top{
+    background-color: #24A19C ;
+    /* border: solid 10px; */
+    padding-top: 70px;
+}
+
+.middle{
+    background-color: #FAEEE7;
+    /* padding-bottom: 20px; */
+    padding: 50px 0px;
+}
+
+.bottom{
+    background-color: #325288;
+    padding:25px 0 5px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 150px auto 150px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.top-cloud{
+    position:absolute;
+    right: 400px;
+    top: 15 0px;
+    height: 80px;
+    width: 220px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 400px;
+    top: 300px;
+    height: 80px;
+    width: 220px;
+}
+
+.pp{
+    height: 300px;
+    width: 300px;
+    /* margin-top: 20px; */
+}
+
+.web-dev-logo{
+    height: 280px;
+    width: 300px;
+    margin-right: 20px;
+    float: left;
+}
+/* .web-dev-desc{
+    clear: left;
+} */
+
+.valo-logo{
+    height: 200px;
+    width: 250px;
+    float: right;
+}
+
+/* .valo-gif{
+    height: 80px;
+    width: 200px;
+    margin-left: 35%;
+    margin-top: 5%;
+    float: right;  
+} */
+
+.video-edit-logo{
+    height: 250px;
+    width: 250px;
+    float: left;
+}
+
+.call-me{
+    height: 250px;
+    width:250px;
+}
+.btn {
+    font-family: 'Montserrat', sans-serif;
+    -webkit-border-radius: 9;
+    -moz-border-radius: 9;
+    border-radius: 9px;
+    /* font-family: Georgia; */
+    color: #ffffff;
+    font-size: 25px;
+    background: #9B0000;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+.btn:hover {
+    background: #8f0000;
+    text-decoration: none;
+}
+
+.footer-link{
+    color: #CA6702;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px 20px;
+    text-decoration: none;
+    font-size: 25px;
+}
+.footer-link:hover{
+    color: #723901;
+}
+
+.copyright{
+    color: #FAEEE7;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    margin: 0px;
+}
